@@ -1,6 +1,4 @@
-# ⚠️ This project has been archived and is no longer maintained
-
-# ng-chat
+# @ng-chat
 
 [![npm](https://img.shields.io/npm/v/ng-chat.svg)](https://www.npmjs.com/package/ng-chat)
 [![npm downloads](https://img.shields.io/npm/dm/ng-chat.svg)](https://npmjs.org/ng-chat)
@@ -13,7 +11,7 @@ A simple facebook/linkedin lookalike chat module for Angular applications.
 * [Online demo source code (ASP.NET core and Azure SignalR)](https://github.com/rpaschoal/ng-chat-netcoreapp)
 * [Node.js example](https://github.com/rpaschoal/ng-chat-nodejs)
 
-<a href="https://www.buymeacoffee.com/ixJwWB5bD" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/ramonrocha" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Getting started
 ### Installation
