@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ng4-chat": {
+    "ng-chat-13": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -60,18 +60,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "ng4-chat:build"
+            "browserTarget": "ng-chat-13:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "ng4-chat:build:production"
+              "browserTarget": "ng-chat-13:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "ng4-chat:build"
+            "browserTarget": "ng-chat-13:build"
           }
         },
         "test": {
@@ -105,7 +105,7 @@
         }
       }
     },
-    "ng4-chat-e2e": {
+    "ng-chat-13-e2e": {
       "root": "e2e",
       "sourceRoot": "e2e",
       "projectType": "application",
@@ -114,7 +114,7 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "./protractor.conf.js",
-            "devServerTarget": "ng4-chat:serve"
+            "devServerTarget": "ng-chat-13:serve"
           }
         },
         "lint": {
@@ -131,7 +131,7 @@
       }
     }
   },
-  "defaultProject": "ng4-chat",
+  "defaultProject": "ng-chat-13",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "app",

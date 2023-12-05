@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ng4-chat App', () => {
+describe('ng-chat-13 App', () => {
   let page: AppPage;
 
   beforeEach(() => {
